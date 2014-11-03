@@ -1,0 +1,32 @@
+<html>
+  <body>
+    <script type="text/javascript">
+      function tasizan(a,b){
+        var c=Number(a)+Number(b);
+        return c;
+      }
+    </script>
+    <Input type="text" id="num1">
+    <input type="text" id="num2">
+    <input type="button" value="’©¡’Â­’¤¹" onclick="alert(tasizan(num1.value,num2.value))">
+ <script type="text/javascript">
+’¡¡function kakezan(d,e){var f=Number(d)*(e);return f;}
+’¡¡</script>
+<input type="text" id="num3">
+    <input type="text" id="num4">
+    <input type="button" value="’©¢’³Ý’¤±’¤ë" onclick="alert(kakezan(num3.value,num4.value))">
+
+ <script type="text/javascript">
+’¡¡function kakezan(h,i){var g=2*Number(h)+10;return g;}
+’¡¡</script>
+<input type="text" id="num5">
+    
+    <input type="button" value="’©£2x + 10" onclick="alert(kakezan(num5.value))">
+
+
+
+
+
+
+’¡¡ </body>
+</html>
